@@ -341,22 +341,22 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "#",
-      title: "Wondering how to start a dropshipping Ecommerce business with no money?",
+      url: "https://medium.com/@bawapython",
+      title: "Starting an Ecommerce Business with No Money: A Step-by-Step Guide",
       description:
         "The good news is, it's definitely doable. The not-so-good news is starting out with zero capital means you need to put in a lot of legwork to see it succeed."
     },
     {
-      url: "#",
+      url: "https://medium.com/@bawapython",
       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
       description:
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
     },
     {
-      url: "#",
-      title: "Why REACT is The Best?",
+      url: "https://medium.com/@bawapython",
+      title: "The Role of AI in Modern Web Development",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "Discover how AI is revolutionizing the field of web development and enabling more efficient and effective processes."
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -389,7 +389,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://podcasters.spotify.com/pod/show/salman-ali919/episodes/AI--Future-of-Web-Development-e2dp9c9"
+    "https://podcasters.spotify.com/pod/show/salman-ali919/episodes/AI--Future-of-Web-Development-e2dp9c9/a-aapn611"
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -398,7 +398,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92 310 944 7669",
+  number: "+92 333 747 6008",
   email_address: "ceo@salmanalee.com"
 };
 
